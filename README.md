@@ -115,9 +115,3 @@ Acesse em `http://localhost:4444`
 ## 📝 Licença
 
 MIT — Use livremente em seus pentests.
-
----
-
-<p align="center">
-  Feito por <a href="https://github.com/rafaelchriss">Rafael Silva</a> · <strong>RDJ Technology</strong>
-</p>
